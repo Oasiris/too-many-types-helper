@@ -24,7 +24,6 @@ REQUIREMENTS:
     use same order writing [FIRE, WATER, GRASS] vertically)
 */
 
-
 /**
  * toTitleCase converts a string to title case, e.g. 'HOT BUNS' -->
  * 'Hot buns' or 'aPpLe' --> 'Apple'.
@@ -100,8 +99,8 @@ function parseTypeChartCsv(typeChartCsvPath: string): string {
     console.log(matchups)
 
     // Fix casing.
-    verticalTypeList = verticalTypeList.map(type => toTitleCase(type))
-    typeList = typeList.map(type => toTitleCase(type))
+    verticalTypeList = verticalTypeList.map((type) => toTitleCase(type))
+    typeList = typeList.map((type) => toTitleCase(type))
 
     // Check that the list of types is easily createable.
     console.log(`Horizontal type list: ${typeList}`)
