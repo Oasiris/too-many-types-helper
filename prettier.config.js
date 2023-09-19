@@ -1,35 +1,35 @@
-module.exports = {
-  arrowParens: "always",
+export default {
+  arrowParens: 'always',
   bracketSpacing: true,
   printWidth: 120,
   singleQuote: true,
   semi: false,
   tabWidth: 4,
-  trailingComma: "all",
+  trailingComma: 'all',
   overrides: [
     {
-      files: "*.js",
+      files: '*.js',
       options: {
         tabWidth: 2,
       },
     },
     {
-      files: "*.json",
+      files: '*.json',
       options: {
         tabWidth: 2,
       },
     },
     {
-      files: ".prettierrc.json",
+      files: '.prettierrc.json',
       options: {
         tabWidth: 2,
       },
     },
     {
-      files: "*.jsonc",
+      files: '*.jsonc',
       options: {
         tabWidth: 2,
       },
     },
   ],
-};
+}
