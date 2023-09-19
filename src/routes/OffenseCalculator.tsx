@@ -191,8 +191,8 @@ function OffenseCalculator() {
                     <div>
                         {defenseTypes
                             .filter((defensiveType) => defensiveType !== NO_TYPE_VALUE)
-                            .map((defenseType) => (
-                                <p key={defenseType}>
+                            .map((defenseType, idx) => (
+                                <p key={idx}>
                                     Modifier for {offenseType} vs {defenseType}:{' '}
                                     <span className="miniEffectivenessValue">
                                         {calculateEffectiveness(offenseType, [defenseType])}
