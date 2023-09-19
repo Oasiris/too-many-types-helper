@@ -2,7 +2,7 @@ function Home() {
     return (
         <>
             <header>Too Many Types Checker</header>
-            <h1>Home</h1>
+            <h1>Offense Calculator</h1>
 
             <p>
                 Hello world!

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 
 import Example from './routes/Example'
 import Home from './routes/Home'
+import NotFound from './routes/NotFound'
 
 const MainRoutes: React.FC = () => {
     return (
@@ -10,8 +11,8 @@ const MainRoutes: React.FC = () => {
             <Routes>
             <Route path="/" element={<Home />} />
             <Route path="example/*" element={<Example />} />
-                {/* <Route path="/" exact component={Home} /> */}
-                {/* <Route path="/" component={NotFound} /> */}
+            <Route path="home/*" element={<Home />} />
+            <Route path="/*" element={<NotFound />} />
             </Routes>
         </>
     )
