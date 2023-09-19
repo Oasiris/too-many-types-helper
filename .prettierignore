@@ -1,0 +1,4 @@
+build/
+scripts/
+**/package.json
+**/package-lock.json

@@ -1,0 +1,299 @@
+Dex #,Pokemon,Type I,Type II,Type III,Where (Earliest),New TM,New Moves
+1,Chikorita,Grass,Bean,,Starter,"FLASH_MOB, HYPE_TRAIN",Pinto_Power 10; Lima Lash 12; Sip Coffee (Over Synthesis); 28 Lentil Leech (Over Sweet scent); Bean bomb (Over Aromatherapy)
+2,Bayleef,Grass,Bean,,,"FLASH_MOB, HYPE_TRAIN",Pinto_Power 10; Lima Lash 12; Sip Coffee (Over Synthesis); 28 Lentil Leech (Over Sweet scent); Bean bomb (Over Aromatherapy)
+3,Meganium,Grass,Bean,Fairy,,"FLASH_MOB, HYPE_TRAIN",Pinto_Power 10; Lima Lash 12; Sip Coffee (Over Synthesis); 28 Lentil Leech (Over Sweet scent); Bean bomb (Over Aromatherapy); Moonblast; 44
+4,Fennekin,Fire,Magic,,Starter,"GLOMP, WARM_HUG, HYPE_TRAIN",Eldritch Blast 8; Magic_Missile (Over Psybeam); Mage Armor 30; Fireball (Over Flamethrower)
+5,Braixen,Fire,Magic,Furry,,"GLOMP, WARM_HUG, HYPE_TRAIN",Eldritch Blast 8; Magic_Missile (Over Psybeam); Mage Armor 30; Fireball (Over Flamethrower)
+6,Delphox,Fire,Magic,Furry,,"GLOMP, WARM_HUG, HYPE_TRAIN",Eldritch Blast 8; Magic_Missile (Over Psybeam); Mage Armor 30; Fireball (Over Flamethrower)
+7,Popplio,Water,Silly,,Starter,"FLASH_MOB, HYPE_TRAIN",Squirting Flower 13; Toon Up 33; 
+8,Brionne,Water,Silly,,,"FLASH_MOB, HYPE_TRAIN",Squirting Flower 13; Toon Up 33; 
+9,Primarina,Water,Silly,Song,,"FLASH_MOB, HYPE_TRAIN",Squirting Flower 13; Toon Up 34; Wedding Cake 40;
+10,Sentret,Normal,Fluffy,,Route 101,"WARM_HUG, GLOMP",Teddy Tumble 5; Puff Up (Over Defense Curl); Cuddle Slam (Over Slam) Snug Strike 30; 
+11,Furret,Friend,Fluffy,,,"WARM_HUG, GLOMP, HYPE_TRAIN",Teddy Tumble 5; Puff Up (Over Defense Curl); Cuddle Slam (Over Slam) Snug Strike 30; 
+12,Pidove,Boring,Flying,,Route 101,FOSSILIZE,File_W9 14; Eat Cracker (Over Roost)
+13,Tranquill,Boring,Flying,,,FOSSILIZE,File_W9 14; Eat Cracker (Over Roost)
+14,Unfezant,Boring,Flying,,,FOSSILIZE,File_W9 14; Eat Cracker (Over Roost)
+,Rattata,Boring,,,Route 101,ROOTINTOOTIN,Send email 20
+,Raticate,Boring,,,,ROOTINTOOTIN,Send email 20
+17,Poochyena,Angy,,,Route 101,,Rage (Over Tackle); 
+18,Mightyena,Angy,,,,,Rage (Over Tackle); 
+19,Lotad,Grass,Vibe,,Route 102,FLASH_MOB,Vibe Shift 16; Goove pulse 23
+20,Lombre,Grass,Water,Vibe,,FLASH_MOB,Vibe Shift 18; Groove pulse 26
+21,Ludicolo,Grass,Water,Dance,,FLASH_MOB,"Groove Pulse (On Evo); Samba_Strike (0), Cha_Cha(1)"
+22,Ralts,Space,Fairy,,Route 102,,Swift 13; Starstrike (Over Psychic)
+23,Kirlia,Space,Fairy,,,,Swift 13; Starstrike (Over Psychic)
+24,Gardevoir,Space,Fairy,Gender,,,Swift 13; Starstrike (Over Psychic)
+25,Gallade,Bad,Sharp,Gender,,,Meteor Mash 32;
+26,Krabby,Crab,,,Route 103,CRAB_RAVE,Crab Rave 16; Carcinization 28; 
+27,Kingler,Crab,,,,CRAB_RAVE,Crab Rave 16; Carcinization 28; 
+28,Cottonee,Fluffy,,,Petalburg Woods,"WARM_HUG, HYPE_TRAIN",Puff Up 6; Warm Hug (Over Stun Spore)
+29,Whimsicott,Fluffy,Prime,,,"WARM_HUG, HYPE_TRAIN",Pollen Puff (On Evo); Content (on evo); Prime sub 32
+30,Kricketot,Bug,Song,,Route 104,FLASH_MOB,Disarming voice: 10; 
+31,Kricketune,Bug,Song,,,FLASH_MOB,Disarming voice: 10; Round 32;
+32,Azurill,Normal,Gender,Baby,Route 104,,Babify 50
+33,Marill,Water,Gender,,Route 104,,Wavedash 15; Double Jump 30;
+34,Azumarill,Water,Gender,,,,Wavedash 15; Double Jump 30;
+,Slakoth,Boring,Stinky,,Petalburg Woods,PEE_YEW,Pee-Yew! 11;
+,Vigoroth,Angy,Stinky,,,PEE_YEW,Pee-Yew! 11;
+,Slaking,Boring,Stinky,,,PEE_YEW,Wait (On Evo); PantStayBrown 44; WeDontWipe 44;
+38,Pichu,Electric,Little,Baby,Petalburg Woods,HYPE_TRAIN,Minimize 8; Babify 50
+39,Pikachu,Pikachu,,,Route 117,HYPE_TRAIN,Pikabolt (Replace Spark); Pikattack (replace Slam); Rocket Punch (Replace Quick Attack); Pikaprotect 30; Volt Tackle (Replace thunderbolt)
+40,Raichu,Electric,Zoomer,,,HYPE_TRAIN,Metal Pipe (1); Parabolic Charge (On Evo)
+41,Whismur,Song,,,Route 116,FOSSILIZE,No additions
+42,Loudred,Song,Ugly,,,FOSSILIZE,Revenge 25; Stomping tantrum 38
+43,Exploud,Song,Ugly,Angy,,FOSSILIZE,Revenge 25; Stomping tantrum 38
+44,Budew,Grass,Poison,Baby,Route 116,FLASH_MOB,Babify 50
+45,Roselia,Grass,Poison,Gender,,FLASH_MOB,Dazzling gleam 27
+46,Roserade,Grass,Poison,Gender,,FLASH_MOB,Double Jump (On Evo); Dazzling Gleam (On evo)
+47,Happiny,Baby,Friend,,Route 116,,Babify 50;
+48,Chansey,Friend,,,,,Hug 15;
+49,Blissey,Friend,,,,,Hug 15;
+50,Stunky,Stinky,,,Route 116,PEE_YEW,Pee Yew! (Replace Fury Swipes); Uh Oh Stinky (Replace Poison Gas); Stink Bomb (replace Feint)
+51,Skuntank,Stinky,Angy,,,PEE_YEW,Pee Yew! (Replace Fury Swipes); Uh Oh Stinky (Replace Poison Gas); Stink Bomb (replace Feint)
+52,Vulpix,Fire,Fluffy,,Route 116,WARM_HUG,Teddy Tumble 5; Puff Up 14; Snug Strike 24;
+53,Ninetales,Fire,Fluffy,Dream,,WARM_HUG,Etherwave (On Evo); Mystical Fire 32; Dreamweave 36; Curse 40; Spectral Surge 48
+54,Magikarp,Water,Ugly,,Old Rod,,No additions
+55,Gyarados,Water,Angy,,,FOSSILIZE,Outrage 44
+56,Geodude,Boring,Ugly,Rock,Granite Cave,,Revenge 20; Wait 45
+57,Graveler,Crab,Rock,,,CRAB_RAVE,Revenge 20; Carcinization (On Evo); Wait 51
+58,Golem,Boring,Ugly,Rock,,,Revenge 20; Wait 51
+59,Lileep,Sus,Grass,Ancient,Safari Zone,FOSSILIZE,Facade 27
+60,Cradily,Sus,Grass,Ancient,,FOSSILIZE,Facade 27
+,Anorith,Sharp,Bug,Ancient,Safari Zone,"FOSSILIZE, CRAB_RAVE",No additions
+,Armoldo,Sharp,Bug,Ancient,,"FOSSILIZE, CRAB_RAVE",No additions
+63,Baltoy,Ancient,Psychic,,Route 111,FOSSILIZE,Fossilize 8
+64,Claydol,Ancient,Psychic,,,FOSSILIZE,Fossilize 8
+65,Mankey,Monke,Angy,,Granite Cave,PEE_YEW,Ooga Booga 7; Monke Moment 12;Unga Bunga 17; Banana Blitz 38;
+66,Primeape,Monke,Angy,,,PEE_YEW,Ooga Booga 7; Monke Moment 12;Unga Bunga 17; Banana Blitz 38;
+67,Klink,Steel,Guys,Prime,Granite Cave,,Prime Sub 18; Dab Me Up 24; Peer Pressure 46;
+68,Klang,Steel,Guys,,,,Prime Sub 18; Dab Me Up 24; Peer Pressure 50;
+69,Klinklang,Steel,Guys,Prime,,,Prime Sub 18; Dab Me Up 24; Peer Pressure 50;
+,Bonsly,Baby,Sus,,Granite Cave,FOSSILIZE,Babify 50;
+,Sudowoodo,Sus,Rock,Furry,,FOSSILIZE,Flatter (On Evo); Sabotage 18; Vent 24;
+,Sableye,Gamer,,,Granite Cave,,Wombo Combo 15; Screen Peek 40; 5 Nights 50;
+73,Riolu,Fighting,Vibe,Friend,Route 110,GLOMP,Return 8
+74,Lucario,Fighting,Vibe,Furry,,GLOMP,Glomp (On Evo); Ball Pit 22;
+,Gulpin,Deez Nuts,,,Route 110,GLOMP,No Additions
+,Swalot,Deez Nuts,,,,GLOMP,No Additions
+,Stufful,Little,Fluffy,,,GLOMP,Teddy Tumble 8; Cuddle Slam 20; Warm Hug 22;
+,Bewear,Fluffy ,Gamer,,,GLOMP,Teddy Tumble 8; Cuddle Slam 20; Warm Hug 22; Plush Punch 38; Bite of 87 50; 5 Nights 50;
+79,Buizel,Water,Fluffy,,Route 110,GLOMP,Plush Punch 22;
+80,Floatzel,Water,Fluffy,Furry,,GLOMP,No Additions
+,Sandshrew,Ground,Friend,,Route 110,FOSSILIZE,Return 12
+,Sandslash,Ground,Sharp,,,FOSSILIZE,Return 12
+83,Mime Jr.,Silly,Little,Baby,Route 117,FLASH_MOB,Squirting Flower 13; Toon Up 26; Hypno Goggles 34; Wedding Cake 42; Babify 50
+84,Mr. Mime,Silly,Psychic,,,FLASH_MOB,Squirting Flower 13; Toon Up 26; Hypno Goggles 34; Wedding Cake 42;
+,Mr. Rime,Silly,Ice,,,FLASH_MOB,Squirting Flower 13; Toon Up 26; Hypno Goggles 32 (Replace hypnosis); Wedding Cake 42;
+,Aipom,Monke,,,Route 117,,Ooga Booga 7; Unga Bunga 17; Ape Escape 30
+,Ambipom,Monke,Crab,,,CRAB_RAVE,Ooga Booga 7; Unga Bunga 17; Ape Escape 30
+,Slowpoke,Water,Vibe,,Route 117,,Hey chill 10; Vibe shift 24; Uplift 40
+,Slowbro,Water,Vibe,,,,Hey chill 10; Vibe shift 24; Uplift 40
+,Slowking,Water,Psychic,Vibe,,,Hey chill 10; Vibe shift 24; Uplift 40
+,Growlithe,Fire,Friend,,Route 117,WARM_HUG,Hug 1; Return 14
+,Aranine,Fire,Friend,,,WARM_HUG,Hug 1; Return 1; Return 14
+93,Doduo,Normal,Flying,Guys,Route 117,,Peer Pressure 45
+94,Dodrio,Normal,Flying,Guys,,,Peer Pressure 45
+95,Eevee,Normal,Fluffy,,Route 117,WARM_HUG,Teddy Tumble 10; Puff Up (Replace charm); Snug Strike 36; Fluffy Fury (Replace trump card)
+96,Vaporeon,Water,Liquid,Furry,,WARM_HUG,Liquidation 38
+97,Jolteon,Electric,Sharp,,,WARM_HUG,Razor Wind 38
+98,Flareon,Fire,Fluffy,,,WARM_HUG,Warm Hug 31; Snug Strike 38
+99,Espeon,Psychic,Space,,,WARM_HUG,Starstrike 38
+100,Umbreon,Dark,Space,,,WARM_HUG,Meteor Mash 38
+101,Leafeon,Grass,Vibe,,,WARM_HUG,Vibe Check 38
+102,Glaceon,Ice,Magic,,,WARM_HUG,Magic Missile 38
+103,Sylveon,Fairy,Gender,,,WARM_HUG,Dazzling gleam 38
+104,Girafarig,Silly,Psychic,Guys,Route 112,,Squirting flower 25; Peer Pressure 48
+,Stantler,Boring,Ugly,,,,Covet 14; 9 to 5 40
+,Buneary,Fluffy,,,Route 112,"WARM_HUG, GLOMP",Teddy Tumble 3; Plush Punch 28; Warm Hug 34; Snug Strike 38; Fluffy Fury 45; Puff_Up 46 (Replace Charm)
+,Lopunny,Fluffy,Furry,,,"WARM_HUG, GLOMP",Glomp (On Evo); Teddy Tumble 3; Plush Punch 28; Warm Hug 34; Snug Strike 38; Fluffy Fury 45; Puff_Up 46 (Replace Charm); OwO 50
+108,Slugma,Liquid,Deez Nuts,,Route 112,FOSSILIZE,Liquidation 35
+109,Magcargo,Liquid,Fire,Rock,,FOSSILIZE,Liquidation 35
+,Dunsparce,Boring,Silly,,Route 112,FOSSILIZE,Send email 19; File W9 25; 9to5 38; Eat Cracker 42; Wait 50
+111,Magby,Fire,Baby,,Route 112,,Babify 50
+112,Magmar,Fire,Zoomer,,,,Clear Smog (On Evo)
+113,Magmortar,Fire,Left,Gun,,,(On evo) Protest; Mirror Shot 45; Shoot 53
+,Machop,Fighting,Stinky,,Stinky Path,PEE_YEW,Axe 16;
+,Machoke,Fighting,Stinky,,,PEE_YEW,Axe 16;
+,Machamp,Fighting,Crab,,,"PEE_YEW, CRAB_RAVE",Carcinization (On Evo); Crabhammer (On Evo);
+117,Diglett,Smash,,,Stinky Path,FOSSILIZE,Fury Swipes 15; 
+118,Dugtrio,Smash,Guys,,,FOSSILIZE,Fury Swipes 15; Kiss The Homies (On Evo);
+119,Koffing,Poison,Stinky,,Stinky Path,PEE_YEW,Pee Yew! 12; Stink Bomb 15; Uh Oh Stinky 20; 
+120,Weezing,Poison,Stinky,Guys,,PEE_YEW,Pee Yew! 12; Stink Bomb 15; Uh Oh Stinky 20; 
+,Grimer,Liquid,Poison,,Stinky Path,PEE_YEW,Stink Bomb 18; Liquidation 35
+,Muk,Liquid,Poison,,,PEE_YEW,Stink Bomb 18; Liquidation 35
+,Throh,Fighting,Stinky,,Stinky Path,PEE_YEW,Pee Yew 7!; Uh Oh Stinky 15; Axe 27; Born to Shit 40;
+,Sawk,Fighting,Deez Nuts,,Stinky Path,PEE_YEW,Pee Yew 7!; Uh Oh Stinky 15; Axe 27; Born to Shit 40;
+125,Spinda,Silly,Dance,Friend,Route 113,FLASH_MOB,Happy Feet; Hypno Goggles 19 (Replace Hypnosis);
+126,Skarmory,Bad,Sharp,Flying,Route 113,,No additions
+127,Axew,Dragon,,,Route 113,,No additions
+128,Fraxure,Bad,Dragon,,,,No additions
+,Haxorus,Bad,Dragon,,,,No additions
+130,Elekid,Electric,Baby,,Route 113,,Babify 50;
+131,Electabuzz,Electric,Zoomer,,,,Metal Pipe (On Evo);
+132,Electivire,Electric,Right,Gamer,,,Riot (On Evo); Wombo Combo 45;
+133,Honedge,Sharp,Ghost,,Route 113,,No additions
+134,Doublade,Sharp,Ghost,Guys,,,No additions
+135,Aegislash,Sharp,Ghost,,,,No additions
+,Binacle,Rock,Water,Guys,Route 114,CRAB_RAVE,No additions
+,Barbaracle,Rock,Crab,Guys,,CRAB_RAVE,Carcinization (On Evo);
+138,Swablu,Fluffy,Song,Flying,Route 114,,Puff Up 12; Fluffy Fury 23;
+139,Altaria,Fluffy,Song,Flying,,,Puff Up 12; Fluffy Fury 23;
+140,Porygon,Prime,Gamer,,Route 114,HYPE_TRAIN,Hype Train 7; Content 20; Prime Sub 37;
+141,Porygon 2,Prime,Zoomer,Normal2,,HYPE_TRAIN,Conversion 2 (On Evo); Hype Train 7; Content 20; Prime Sub 37;
+142,Porygon-Z,Sus,Gamer,,,HYPE_TRAIN,Screen Peek (On Evo); Sabotage 37;
+,Stunfisk,Ground,Electric,Sus,Meteor Falls,FOSSILIZE,No additions
+,Lunatone,Rock,Space,,Meteor Falls,FOSSILIZE,Swift 13; Starstrike 29;
+,Solrock,Rock,Space,,Route 114,FOSSILIZE,Swift 13; Starstrike 29;
+,Corphish,Crab,Vibe,,Meteor Falls,CRAB_RAVE,Carcinization 25;
+,Crawdaunt,Crab,Angy,,,CRAB_RAVE,Carcinization 25;
+,Cleffa,Baby,Space,Fairy,Meteor Falls,,Babify 50;
+,Clefairy,Space,Fairy,,Meteor Falls,,Pillow Fight 10; Swift 17;
+,Clefable,Space,Fairy,,,,Starstrike (On Evo);
+,Elgyem,Space,,,Meteor Falls,FOSSILIZE,Swift 18; Starstrike 39;
+,Beheeyem,Space,,,,FOSSILIZE,Starstrike 39;
+153,Hatenna,Vibe,Magic,,Meteor Falls,,Hey Chill 10; Eldritch Blast (Replace Aromatherapy); Magic Missile (20);
+154,Hattrem,Vibe,Magic,,,,No additions
+155,Hattrene,Vibe,Magic,,,,Vibe Check (On Evo); Uplift 46; 
+156,Falinks,Silly,Little,Guys,Meteor Falls,FLASH_MOB,Dab Me Up 12; Beat Up 18; Unionize 23; Kiss The Homies 32; Dizzy Punch 38;
+,Rockruff,Rock,Friend,,Jagged Pass,FOSSILIZE,No additions
+,Lycanroc(D),Rock,Angy,,,FOSSILIZE,RAWR XD (On Evo)
+,Lycanroc(N),Rock,Furry,,,FOSSILIZE,RAWR XD (On Evo)
+,Galarian Ponyta,Friend,Gender,Magic,,ROOTIN_TOOTIN,Wavedash (Replace Fairy Wind); Magic Missile (Replace Confusion);
+,Galarian Rapidash,Friend,Gender,Magic,,ROOTIN_TOOTIN,Trans Rights (On Evo); Wavedash (Replace Fairy Wind); Magic Missile (Replace Confusion);
+162,Lickitung,Right,Sus,,Jagged Pass,GLOMP,No additions
+163,Lickilicky,Right,Sus,Prime,,GLOMP,No additions
+,Scraggy,Dance,Zoomer,Fighting,Route 111,PEE_YEW,Metal Pipe 18; Break it down 30; Static Shuffle (Replace Chip Away)
+,Scrafty,Dance,Zoomer,Fighting,,PEE_YEW,Metal Pipe 18; Break it down 30; Static Shuffle (Replace Chip Away)
+,Voltorb,Angy,Ball,,New Mauville,New Mauville,
+,Electrode,Angy,Ball,,New Mauville,,
+,Sandile,Bad,Ground,,Route 111,,No additions
+,Krokorok,Bad,Ground,,,,Body Slam (On Evo);
+,Krookodile,Bad,Ground,,,,No additions
+,Rufflet,Flying,Baby,,Route 111,ROOTIN_TOOTIN,Babify 50;
+,Braviary,Ohio,Right,Flying,,ROOTIN_TOOTIN,Riot 40; Rootintootin 43;
+,Vullaby,Dark,Flying,Baby,Route 111,,Babify 50;
+,Mandibuzz,Dark,Flying,Left,,,No additions
+,Hoppip,Grass,Fluffy,,Route 115,,Warm Hug 20;
+,Skiploom,Grass,Fluffy,,,,Warm Hug 20;
+,Jumpluff,Grass,Fluffy,,,,Pollen Puff (On Evo);
+,Tyrogue,Fighting,Zoomer,,Route 111,PEE_YEW,No additions
+,Hitmonlee,Fighting,Left,,,PEE_YEW,Protest (On Evo);
+,Hitmonchan,Fighting,Right,,,PEE_YEW,Riot (On Evo);
+,Hitmontop,Fighting,Dance,,,"PEE_YEW, FLASH_MOB",Break it Down (On Evo);
+182,Lapras,Water,Ice,Ancient,Surf,,No additions
+,Remoraid,Prime,Gun,,Fish,,Shoot 40;
+,Octillery,Water,Gun,,,,Shoot 40;
+,Wishiwashi,Little,Water,,Surf,FOSSILIZE,Pillow Fight 11;
+,Wishiwasi-School,Little,Water,Guys,,FOSSILIZE,No additions
+,Horsea,Water,Gun,,Surf,,No additions
+,Seadra,Water,Gun,,,,No additions
+,Kingdra,Water,Dragon,Gun,,,Shoot 43;
+190,Wimpod,Silly,Little,Bug,Fish,CRAB_RAVE,No additions
+191,Golisopod,Angy,Bug,,,CRAB_RAVE,No additions
+,Luvdisc,Ugly,Friend,,Fish,,No additions
+193,Dracozolt,Silly,Ancient,Electric,,FOSSILIZE,No additions
+194,Arctozolt,Silly,Ancient,Ice,,FOSSILIZE,No additions
+195,Dracovish,Silly,Ancient,Dragon,,FOSSILIZE,No additions
+196,Arctovish,Silly,Ancient,Water,,FOSSILIZE,No additions
+197,Foongus,Sus,,,Route 119,,Eject 22; Vent 30; Sabotage 33; 
+198,Amoongus,Sus,,,,,Imposter (On Evo); Eject 22; Vent 30;  Sabotage 33; 
+199,Zorua,Sus,Fluffy,,Route 119,GLOMP,Vent 27; Eject 30; Sabotage 35; 
+200,Zoroark,Sus,Furry,,,GLOMP,Vent 27; Eject 30; Sabotage 35; 
+,Venonat,Bug,Poison,Fluffy,Route 119,,Puff Up 7; Magic Missile 24; Ponder 27;
+,Venomoth,Bug,Poison,Magic,,,Fireball 41;
+,Zangoose,Normal,Left,,Route 119,GLOMP,Protest 28;
+,Seviper,Poison,Right,,Route 119,,Riot 28;
+205,Kangaskhan,Normal,Guys,,Route 119,,No additions
+206,Feebas,Water,Ugly,,Route 119,FOSSILIZE,No additions
+207,Milotic,Water,Gender,,,"FOSSILIZE, FLASH_MOB",No additions
+208,Ditto,Sus,Liquid,,Weather Institute,,No additions
+,Kecleon,Type,,,Route 120,,No additions
+,Bouffalant,Ohio,,,Route 120,ROOTIN_TOOTIN,Rodeo 24; Rootintootin 36; Riot 38; Barbecue 44;
+,Absol,Prime,Bad,,Route 120,"GLOMP, HYPE_TRAIN",Hype Train 21; Content 28; Prime Sub 31;
+212,Deino,Angy,Dragon,,Route 120,,No additions
+213,Zweilous,Angy,Dragon,Guys,,,Peer Pressure (On Evo);
+214,Hydreigon,Angy,Dragon,Guys,,,No additions
+,Komala,Dream,Fluffy,,Route 121,WARM_HUG,Cuddle Slam (Replace Slam); Somnium 23;
+,Dwebble,Rock,Crab,,Route 121,CRAB_RAVE,No additions
+,Crustle,Rock,Crab,,,CRAB_RAVE,No additions
+,Teddiursa,Baby,Zoomer,,Route 121,WARM_HUG,Teddy Tumble 20; Plush Punch 32; Babify 50;
+,Ursaring,Boomer,,,,WARM_HUG,Teddy Tumble 20; Plush Punch 32;
+,Bounsweet,Grass,Bean,,Route 121,,"Sweet Cocoa, Chickpea Charm, sugar snap;"
+,Steene,Grass,Bean,,,,Pea Split (On Evo); Sip Coffee
+,Tsareena,Grass,Smash,,,GLOMP,Submission (On Evo);  Soy Shield
+,Mimikyu,Ghost,Sus,,Safari Zone,,Imposter 25; Vent 35;
+,Maractus,Grass,Dance,,Safari Zone,FLASH_MOB,Static Shuffle; Happy Feet; Cha Cha (Replace Ingrain); 
+,Seedot,Bean,,,Safari Zone,,Pinto Power( (Replace Growth);
+,Nuzleaf,Bean,Zoomer,,,,Lima Lash (Replace Razor Wind);
+,Shiftry,Bean,Ugly,,,,Kidney Crash 38; Bean Bomb; Sip Coffee; Soy Shield;
+,Snubbull,Ugly,,,Safari Zone,GLOMP; PEE_YEW,No additions
+,Granbul,Boomer,,,,GLOMP; PEE_YEW,No additions
+,Smeargul,Type,,,Safari Zone,,No additions
+,Type: Null,Type,,,Safari Zone,,No additions
+,Silvally,Normal2,Type,,,,No additions
+,Crabrawler,Prime,Fighting,Crab,Safari Zone,CRAB_RAVE; HYPE_TRAIN,Vise Grip (replace Bubblebeam); Carcinization 44;
+,Crabominable,Ugly,Ice,Crab,,CRAB_RAVE; HYPE_TRAIN,Vise Grip (replace Bubblebeam); Carcinization 44;
+,Drowzee,Dream,,,Safari Zone,PEE_YEW,Eerie Echo (Replace Confusion); Lullaby (Replace Headbutt); Etherwave (Replace Psybeam); Somnium (Replace Psych Up); Spectral Surge (Replace Psychic)
+,Hypno,Right,Boomer,,,PEE_YEW,
+,Duskull,Ghost,Gamer,,Mt. Pyre Int,FOSSILIZE,No additions
+,Dusclops,Ghost,Reverse,Gamer,,FOSSILIZE,No additions
+,Dusknoir,Ghost,Reverse,Gamer,,FOSSILIZE,Uno Reverse (On Evo); 5 Nights 50;
+,Klefki,Little,Boring,,Mt. Pyre Int,,No additions
+,Munna,Dream,Magic,,Mt. Pyre Int,,Eerie Echo (Replace Confusion); Magic Missile (Replace Psywave); Lullaby (Zen Headbutt); Somnium (Replace Psychic); Spectral Surge (Replace Moon Blast)
+,Musharna,Dream,Magic,,,,Eerie Echo (Replace Confusion); Magic Missile (Replace Psywave); Lullaby (Zen Headbutt); Somnium (Replace Psychic); Spectral Surge (Replace Moon Blast)
+,Chingling,Song,,,Mt. Pyre Ext,FLASH_MOB,No additions
+,Chimecho,Song,,,,FLASH_MOB,No additions
+245,Dreepy,Gun,Ghost,Baby,Mt. Pyre Ext,,Babify 50;
+246,Drakloak,Gun,Ghost,Guys,,,Unionize (On Evo); Dab me up 38;
+247,Dragapult,Gun,Ghost,Guys,,,Shoot (51);
+,Oranguru,Monke,Stinky,,Route 123,PEE_YEW,Ooga Booga 7; Unga Bunga 17; UhOhStinky 34
+,Passimian,Monke,Ball,,Route 123,PEE_YEW,Ooga Booga 7; Unga Bunga 17; Let me ball 27; Banana Blitz 38;
+,Chatot,Song,,,Route 123,,No additions
+,Wailmer,Smash,,,Route 126,,Let me Ball 18; 
+,Wailord,Smash,,,,,Let me Ball 18;
+,Spheal,Silly,Friend,Ball,Shoal Cave,,Let me Ball 16; Squirting flower 20; Toon Up 32; 
+,Sealeo,Silly,Ice,Ball,,,Let me Ball 16; Squirting flower 20; Toon Up 32; 
+,Walrein,Silly,Ice,Ball,,,Let me Ball 16; Squirting flower 20; Toon Up 32; 
+,Shellos,Water,Vibe,,Underwater,FLASH_MOB,No additions
+,Gastrodon,OU,Ground,,,FLASH_MOB,No additions
+,Pyukumuku,Water,Bean,,Underwater,,Sweet Cocoa 15;
+,Relicanth,Water,Ancient,,Underwater,FOSSILIZE,No additions
+,Impidimp,Dark,Reverse,Gamer,Seafloor Cavern,,No additions
+,Morgrem,Dark,Reverse,Gamer,,,No additions
+,Grimsnarl,Dark,Reverse,Gamer,,,Uno Reverse 50;
+,Zubat,Boring,Poison,Flying,Seafloor Cavern,,No additions
+,Golbat,Boring,Poison,Flying,,,No additions
+,Crobat,Flying,Poison,Friend,,,No additions
+,Darumaka,Fire,Monke,Dance,Magma Hideout,,Happy Feet; Ooga Booga 7; Unga Bunga 17; Banana Blitz 38;
+,Darmanitan,Angy,Fire,Monke,,,Ooga Booga 7; Unga Bunga 17; Banana Blitz 38;
+,Vanillite,Ice,Baby,,Shoal Cave,,Babify 50;
+,Vanillish,Ice,,,,,No additions
+,Vaniluxe,Ice,Guys,,,,Unionize (On Evo); Kiss the homies (On Evo);
+,Snover,Ice,Grass,Left,Shoal Cave,,Unionize 23; Fillabuster 28; Protest 33;
+,Abombasnow,Ice,Grass,Left,,,Unionize 23; Fillabuster 28; Protest 33;
+,Snom,Ice,Bean,,Shoal Cave,,Snow Pea (Replace Struggle Bug);
+,Frosmoth,Ice,Bug,Magic,,,Ponder 46; Mage Armor 50; Fireball 48;
+,Nincada,Bug,Crab,,Sky Pillar,CRAB_RAVE,Vise Grip 10; Crab Rave 29; Crabhammer 40;
+,Ninjask,Sharp,Zoomer,,Safari Zone,CRAB_RAVE,Squad Goals (On Evo);
+,Shedinja,Sans,,,Sky Pillar,,Bad Time 50; Gaster Blaster 50;
+,Golett,Ancient,,,Sky Pillar,FOSSILIZE,No additions
+,Golurk,Ancient,,,,FOSSILIZE,No additions
+,Duraludon,Gun,,,Sky Pillar,,Shoot 50;
+,Nosepass,Rock,Vibe,,Victory Road,FOSSILIZE,Vibe Shift 20;
+,Probopass,Boomer,Gun,,,FOSSILIZE,Shoot 43;
+,Shieldon,Ancient,Steel,,Victory Road,FOSSILIZE,No additions
+,Bastiodon,Ancient,Steel,Boomer,,FOSSILIZE,No additions
+,Rotom,Prime,,,Victory Road,HYPE_TRAIN,Prime Sub 25;
+,Inkay,Silly,Psychic,,Victory Road,,Hypno Goggles 3 (Over Hypnosis);
+,Malamar,Dark,Reverse,Psychic,,,Hypno Goggles 3 (Over Hypnosis);
+,Munchlax,Ohio,Friend,,In Game Trade,,
+,Snorlax,Ohio,Friend,,Victory Road,ROOTIN_TOOTIN,Barbecue 39; 
+,Beldum,Steel,Space,,Meteor Falls,,No additions
+,Metang,Steel,Space,Guys,,,Dab Me Up (On Evo); Peer Pressure 48;
+,Metagross,Steel,Space,Guys,,,Peer Pressure 48; Singularity 55;
+,Rayquaza,Emerald,,,Sky Pillar,,Dragon Ascent 70;
+,Mew,Prime,,,Truck,"FOSSILIZE, PEEYEW, HYPE_TRAIN, WARM_HUG, GLOMP, FLASH_MOB, ROOTINTOOTIN, CRAB_RAVE",Content 20; Prime Sub 20;
+,Latios,OU,,,Roaming,,Thunderbolt 51; Ice Beam 51;
+,Latias,OU,,,N/A,,No additions
+,Wynaut,Reverse,Baby,,N/A,,No additions
+,Deoxys (N),Space,Crab,,N/A,,No additions
