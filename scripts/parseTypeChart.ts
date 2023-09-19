@@ -125,6 +125,7 @@ function parseTypeChartCsv(typeChartCsvPath: string): string {
     const output = {
         matchups: matchups,
         types: typeToMatchupIndex,
+        typeList: typeList,
         CREATION_DATE,
         LAST_KNOWN_ROM_VERSION,
     }

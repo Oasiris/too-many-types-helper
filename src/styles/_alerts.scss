@@ -1,0 +1,67 @@
+// This is partially copied and pasted from Bootstrap 4.0:
+// https://getbootstrap.com/docs/4.0/components/alerts/
+
+// Alerts
+//
+// Define alert colors, border radius, and padding.
+
+$border-radius: 0.25rem !default;
+$border-radius-lg: 0.3rem !default;
+$border-radius-sm: 0.2rem !default;
+$border-width: 1px !default;
+$font-weight-bold: 600;
+$font-size-base: 1rem !default; // Assumes the browser default, typically `16px`
+$close-font-size: $font-size-base * 1.5 !default;
+
+$alert-padding-y: 0.75rem !default;
+$alert-padding-x: 1.25rem !default;
+$alert-margin-bottom: 1rem !default;
+$alert-border-radius: $border-radius !default;
+$alert-link-font-weight: $font-weight-bold !default;
+$alert-border-width: $border-width !default;
+
+$alert-bg-level: -10 !default;
+$alert-border-level: -9 !default;
+$alert-color-level: 6 !default;
+
+//
+// Base styles
+//
+
+.alert {
+    position: relative;
+    padding: $alert-padding-y $alert-padding-x;
+    margin-bottom: $alert-margin-bottom;
+    border: $alert-border-width solid transparent;
+    // @include border-radius($alert-border-radius);
+    border-radius: $alert-border-radius;
+    background: rgba(86, 213, 211, 0.3);
+}
+
+// Headings for larger alerts
+.alertHeading {
+    // Specified to prevent conflicts of changing $headings-color
+    color: inherit;
+}
+
+// Provide class for links that match alerts
+.alertLink {
+    font-weight: $alert-link-font-weight;
+}
+
+// Dismissible alerts
+//
+// Expand the right padding and account for the close button's positioning.
+
+.alertDismissable {
+    padding-right: ($close-font-size + $alert-padding-x * 2);
+
+    // Adjust close link position
+    .close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        padding: $alert-padding-y $alert-padding-x;
+        color: inherit;
+    }
+}
