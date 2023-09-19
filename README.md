@@ -6,9 +6,11 @@
 
 This is a helper tool for Pokemon: Too Many Types!
 
+<a href="https://too-many-types-checker-v1-0-0.surge.sh/">
 <img src="docs/v1.0.0_screenshot.png" width="1000" alt="Screenshot showing too many types checker">
+</a>
 
-> Check it out here: [Too Many Types Helper](https://too-many-types-checker-v1-0-0.surge.sh/)
+> ### Check it out here! [Too Many Types Helper](https://too-many-types-checker-v1-0-0.surge.sh/)
 
 ## Current Features
 
