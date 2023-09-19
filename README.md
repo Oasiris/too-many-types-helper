@@ -1,27 +1,23 @@
-# React + TypeScript + Vite
+### **NOTE**: I'm happy to share this repository for people to learn and enjoy. However, please don't fork and re-deploy this without my permission, and please don't delete my name from the credits footer. Thanks!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+# Pokemon: Too Many Types Helper
 
--   [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
--   [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This is a helper tool for Pokemon: Too Many Types!
 
-## Expanding the ESLint configuration
+<img src="docs/v1.0.0_screenshot.png" width="350" alt="Screenshot showing too many types checker">
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+> Check it out here: [Too Many Types Helper](https://too-many-types-checker-v1-0-0.surge.sh/)
 
--   Configure the top-level `parserOptions` property like this:
+## Current Features
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+-   **Offensive Type Checker**: Check the type effectiveness of your move against any combination of defensive types!
 
--   Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
--   Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
--   Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## Planned Features
+
+TBD!
+
+### More information
+
+-   This app was deployed using surge!

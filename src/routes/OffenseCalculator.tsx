@@ -206,9 +206,11 @@ function OffenseCalculator() {
             {/* Footer */}
 
             <footer>
+                {/* Hi! I'm happy to share this repository for people to learn and enjoy. However, please don't fork
+                and re-deploy this without my permission, and please don't delete my name from the credits footer. Thanks! */}
                 <p>Created with ❤️ in TypeScript.</p>
                 <p>©Oasiris, 2023.</p>
-                <a href="https://github.com/Oasiris">https://github.com/Oasiris</a>
+                <a href="https://github.com/Oasiris">github.com/Oasiris</a>
             </footer>
         </>
     )
