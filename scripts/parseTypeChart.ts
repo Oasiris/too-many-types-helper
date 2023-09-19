@@ -90,13 +90,15 @@ function parseTypeChartCsv(typeChartCsvPath: string): string {
 
     // FOR NOW, assume the top row order 'FIRE', 'WATER', 'GRASS' matches the bottom columns order 'FIRE', 'WATER', 'GRASS'.
 
-    // Start by creating the matchups table.
+    // Use the row values to get the vertical and horizontal type lists.
     let matchups = cloneDeep(rows)
     let verticalTypeList = flatten(matchups.map((row) => row[0])).slice(1)
     matchups = matchups.map((row) => row.slice(1))
     let typeList = matchups[0]
+    // Create the matchups table.
     matchups = matchups.slice(1)
-    console.log(matchups)
+    const matchupsWithNumbers = matchups.map((row) => row.map((cell) => Number(cell)))
+    console.log(matchupsWithNumbers)
 
     // Fix casing.
     verticalTypeList = verticalTypeList.map((type) => toTitleCase(type))
@@ -123,7 +125,7 @@ function parseTypeChartCsv(typeChartCsvPath: string): string {
 
     // Assemble the final JSON.
     const output = {
-        matchups: matchups,
+        matchups: matchupsWithNumbers,
         types: typeToMatchupIndex,
         typeList: typeList,
         CREATION_DATE,
