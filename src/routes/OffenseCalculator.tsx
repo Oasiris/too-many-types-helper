@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import TYPE_CHART from '../data/type_chart.json'
+import uniq from 'lodash/fp/uniq'
 
 import './OffenseCalculator.scss'
 
@@ -97,10 +98,10 @@ function OffenseCalculator() {
     const [defenseType1, setDefenseType1] = useState('Water')
     const [defenseType2, setDefenseType2] = useState('noType')
     const [defenseType3, setDefenseType3] = useState('noType')
-    const defenseTypes = [defenseType1, defenseType2, defenseType3]
+    const defenseTypes = uniq([defenseType1, defenseType2, defenseType3])
 
     // Calculate the effectiveness.
-    const effectivenessValue = calculateEffectiveness(offenseType, [defenseType1, defenseType2, defenseType3])
+    const effectivenessValue = calculateEffectiveness(offenseType, defenseTypes)
 
     // Use different styles based on the effectiveness.
     let effectivenessColorHex: string
